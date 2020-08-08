@@ -12,4 +12,5 @@ Am osbone ogega, a student at moringa school, slot mpft32 learning for software 
 
 ### link
 This is my active link: https://github.com/osborne1255128/IP-1.git.
-
+### Licenses
+All rights are preserved under this file.
